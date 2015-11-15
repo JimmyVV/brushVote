@@ -1,7 +1,6 @@
 ####刷票过程
-1.iphone手机可以使用无痕模式直接刷票
+1.iphone手机可以使用无痕模式直接刷票<br/>
 2.没有iphone的或者不支持手机端的可以使用chrome浏览器
-
 _ _ _
 
 >实现步骤
@@ -23,6 +22,6 @@ _ _ _
 
 7.然后就刷新一下再投票就可以了. 顿时感觉刷票原来这么有成就感~<br/>
 
-Ps: 补充一下，==这里的刷新不是直接Ctrl+R,而是鼠标点击搜索框然后Enter==，就可以了.记住每次刷新之前先==delete session!== ==delete session! delete session!==
+Ps: 补充一下，*这里的刷新不是直接Ctrl+R,而是鼠标点击搜索框然后Enter*，就可以了.记住每次刷新之前先*delete session!* *delete session! delete session!*
 
 _ _ _
